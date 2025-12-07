@@ -45,3 +45,5 @@ Open http://localhost:8000
 - Ensure .env is present before starting
 - If Tavily returns 403, app falls back to role recommendations without links
 - Chat output uses numbered multi-line items: Title, Location, Link, Info
+
+  https://github.com/user-attachments/assets/953ff20b-eca4-4621-b7ad-27ae396e1a66
